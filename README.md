@@ -141,11 +141,8 @@ APB_Bus/
 │   ├── apb_mux.sv
 │   └── apb_top.sv
 │
-├── interface/
-│   └── apb_if.sv
 │
-├── assertions/
-│   └── apb_sva.sv
+
 │
 ├── verification/
 │   ├── sequence_item/
@@ -157,15 +154,17 @@ APB_Bus/
 │   ├── environment/
 │   ├── scoreboard/
 │   ├── coverage/
+│   ├── interface/
+│   ├── top/
 │   └── tests/
 │
 ├── simulation/
 │   ├── src_files.list
-│   ├── run.do
-│   └── top.sv
+│   └── run.do
 │
 └── docs/
-    ├── APB_Architecture.png
+    ├── images
+          └──  Design_Explaination.list
     └── Verification_Plan.pdf
 ```
 
@@ -265,8 +264,8 @@ Monitor
 
 Digital Verification Engineer
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: *(www.linkedin.com/in/abdelrahmandakroury)*
+- GitHub: *(https://github.com/dakrory2011)*
 
 ---
 
