@@ -22,7 +22,7 @@ The verification environment was developed following industry-standard UVM metho
 # Architecture
 
 <p align="center">
-  <img src="docs/images/Design_Explanation.png" width="900"/>
+  <img src="docs/images/Design_Explaination.png" width="900"/>
 </p>
 
 > Replace the image above with your architecture diagram.
