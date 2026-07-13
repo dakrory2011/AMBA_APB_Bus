@@ -22,7 +22,7 @@ The verification environment was developed following industry-standard UVM metho
 # Architecture
 
 <p align="center">
-  <img src="docs/APB_Architecture.png" width="900">
+  <img src="Design Explaination" width="900">
 </p>
 
 > Replace the image above with your architecture diagram.
